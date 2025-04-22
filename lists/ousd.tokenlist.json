@@ -1,0 +1,26 @@
+{
+    "name": "OUSD Token List",
+    "timestamp": "2025-04-22T05:59:20.397855Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://raw.githubusercontent.com/WYKKUHJGHJ/OUSD_Logo/main/Logo.PNG",
+    "keywords": [
+        "OUSD",
+        "stablecoin",
+        "omniusd"
+    ],
+    "tokens": [
+        {
+            "name": "OmniUSD",
+            "symbol": "OUSD",
+            "address": "0x1d6379d96fef9854944f43b7018ad4a7373ed338",
+            "decimals": 18,
+            "chainId": 1,
+            "logoURI": "https://raw.githubusercontent.com/WYKKUHJGHJ/OUSD_Logo/main/Logo.PNG"
+        }
+    ]
+}
